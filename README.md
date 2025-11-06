@@ -1,3 +1,3 @@
-Phonlawat Phudokmai \n
-C2R2 / Computer \n
+Phonlawat Phudokmai <br>
+C2R2 / Computer <br>
 Cyber security, Network, CTFs
