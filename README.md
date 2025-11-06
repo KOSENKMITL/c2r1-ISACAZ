@@ -1,3 +1,4 @@
-Phonlawat Phudokmai <br>
-C2R2 / Computer <br>
-Cyber security, Network, CTFs
+Full Name: Phonlawat Phudokmai <br>
+Room: C2R2 <br>
+Major: Computer <br>
+Interests/hobbies: Cyber security, Network, CTFs
